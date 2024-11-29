@@ -1,0 +1,17 @@
+{
+    "name": "soroush_hn/noted",
+    "autoload": {
+        "psr-4": {
+            "model\\": "model/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Soroush hajian",
+            "email": "soroush.hn.77@gmail.com"
+        }
+    ],
+  "require": {
+	"ext-pdo": "*"
+  }
+}
